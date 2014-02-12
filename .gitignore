@@ -41,4 +41,6 @@ nbproject
 ########################
 # node_modules
 
-
+# Sublime FTP config #
+######################
+sftp-config.json
